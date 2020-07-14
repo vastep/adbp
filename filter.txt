@@ -1,0 +1,10 @@
+hotjar.com
+vk.com
+/ads/
+gemius.pl
+analytics.google.com
+doubleclick.net
+googletagservices.com
+privacy-center.org
+google-analytics
+.ru/
