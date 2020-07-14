@@ -1,3 +1,4 @@
+! Expires: 7 days
 hotjar.com
 vk.com
 /ads/
