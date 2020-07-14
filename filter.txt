@@ -1,3 +1,4 @@
+[Adblock Plus 3.9]
 ! Title: My custom filter
 ! Expires: 7 days
 hotjar.com
