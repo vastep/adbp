@@ -11,3 +11,5 @@ googletagservices.com
 privacy-center.org
 google-analytics
 .ru/
+gstatic.com
+ankunding.biz
