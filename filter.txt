@@ -14,3 +14,4 @@ google-analytics
 .ru/
 ankunding.biz
 adtelligent.com
+advertisment.js
