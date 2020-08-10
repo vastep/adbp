@@ -13,3 +13,4 @@ privacy-center.org
 google-analytics
 .ru/
 ankunding.biz
+adtelligent.com
