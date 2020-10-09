@@ -15,4 +15,4 @@ google-analytics
 ankunding.biz
 adtelligent.com
 advertisment.js
-/padead/
+/pagead/
